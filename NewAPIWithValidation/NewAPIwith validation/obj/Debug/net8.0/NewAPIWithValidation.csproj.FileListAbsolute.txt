@@ -1,0 +1,66 @@
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\bin\Debug\net8.0\appsettings.Development.json
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\bin\Debug\net8.0\appsettings.json
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\bin\Debug\net8.0\NewAPIWithValidation.exe
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\bin\Debug\net8.0\NewAPIWithValidation.deps.json
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\bin\Debug\net8.0\NewAPIWithValidation.runtimeconfig.json
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\bin\Debug\net8.0\NewAPIWithValidation.dll
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\bin\Debug\net8.0\NewAPIWithValidation.pdb
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.csproj.AssemblyReference.cache
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.AssemblyInfoInputs.cache
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.AssemblyInfo.cs
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.csproj.CoreCompileInputs.cache
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.MvcApplicationPartsAssemblyInfo.cs
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.sourcelink.json
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\staticwebassets.build.json
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\staticwebassets.development.json
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\staticwebassets\msbuild.NewAPIWithValidation.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\staticwebassets\msbuild.build.NewAPIWithValidation.props
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NewAPIWithValidation.props
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NewAPIWithValidation.props
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\scopedcss\bundle\NewAPIWithValidation.styles.css
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWi.E7F19391.Up2Date
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.dll
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\refint\NewAPIWithValidation.dll
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.pdb
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.genruntimeconfig.cache
+E:\Programming\projects\CsharpProjects\NewAPIwith validation\NewAPIwith validation\obj\Debug\net8.0\ref\NewAPIWithValidation.dll
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.csproj.AssemblyReference.cache
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.AssemblyInfoInputs.cache
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.AssemblyInfo.cs
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.csproj.CoreCompileInputs.cache
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.MvcApplicationPartsAssemblyInfo.cs
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.sourcelink.json
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.dll
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\refint\NewAPIWithValidation.dll
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.pdb
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\bin\Debug\net8.0\appsettings.Development.json
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\bin\Debug\net8.0\appsettings.json
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\bin\Debug\net8.0\NewAPIWithValidation.exe
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\bin\Debug\net8.0\NewAPIWithValidation.deps.json
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\bin\Debug\net8.0\NewAPIWithValidation.runtimeconfig.json
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\bin\Debug\net8.0\NewAPIWithValidation.dll
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\bin\Debug\net8.0\NewAPIWithValidation.pdb
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\staticwebassets.build.json
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\staticwebassets.development.json
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\staticwebassets\msbuild.NewAPIWithValidation.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\staticwebassets\msbuild.build.NewAPIWithValidation.props
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NewAPIWithValidation.props
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NewAPIWithValidation.props
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\scopedcss\bundle\NewAPIWithValidation.styles.css
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWi.E7F19391.Up2Date
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\NewAPIWithValidation.genruntimeconfig.cache
+E:\Programming\projects\CsharpProjects\NewAPIWithValidation\NewAPIwith validation\obj\Debug\net8.0\ref\NewAPIWithValidation.dll
