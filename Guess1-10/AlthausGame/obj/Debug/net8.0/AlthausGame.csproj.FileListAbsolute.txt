@@ -1,0 +1,14 @@
+C:\Users\Lenit\source\repos\AlthausGame\AlthausGame\obj\Debug\net8.0\AlthausGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenit\source\repos\AlthausGame\AlthausGame\obj\Debug\net8.0\AlthausGame.AssemblyInfoInputs.cache
+C:\Users\Lenit\source\repos\AlthausGame\AlthausGame\obj\Debug\net8.0\AlthausGame.AssemblyInfo.cs
+C:\Users\Lenit\source\repos\AlthausGame\AlthausGame\obj\Debug\net8.0\AlthausGame.csproj.CoreCompileInputs.cache
+C:\Users\Lenit\source\repos\AlthausGame\AlthausGame\bin\Debug\net8.0\AlthausGame.exe
+C:\Users\Lenit\source\repos\AlthausGame\AlthausGame\bin\Debug\net8.0\AlthausGame.deps.json
+C:\Users\Lenit\source\repos\AlthausGame\AlthausGame\bin\Debug\net8.0\AlthausGame.runtimeconfig.json
+C:\Users\Lenit\source\repos\AlthausGame\AlthausGame\bin\Debug\net8.0\AlthausGame.dll
+C:\Users\Lenit\source\repos\AlthausGame\AlthausGame\bin\Debug\net8.0\AlthausGame.pdb
+C:\Users\Lenit\source\repos\AlthausGame\AlthausGame\obj\Debug\net8.0\AlthausGame.dll
+C:\Users\Lenit\source\repos\AlthausGame\AlthausGame\obj\Debug\net8.0\refint\AlthausGame.dll
+C:\Users\Lenit\source\repos\AlthausGame\AlthausGame\obj\Debug\net8.0\AlthausGame.pdb
+C:\Users\Lenit\source\repos\AlthausGame\AlthausGame\obj\Debug\net8.0\AlthausGame.genruntimeconfig.cache
+C:\Users\Lenit\source\repos\AlthausGame\AlthausGame\obj\Debug\net8.0\ref\AlthausGame.dll
