@@ -1,0 +1,14 @@
+E:\Programing\projects\CsharpProjects\iffyGame\bin\Debug\net8.0\iffyGame.exe
+E:\Programing\projects\CsharpProjects\iffyGame\bin\Debug\net8.0\iffyGame.deps.json
+E:\Programing\projects\CsharpProjects\iffyGame\bin\Debug\net8.0\iffyGame.runtimeconfig.json
+E:\Programing\projects\CsharpProjects\iffyGame\bin\Debug\net8.0\iffyGame.dll
+E:\Programing\projects\CsharpProjects\iffyGame\bin\Debug\net8.0\iffyGame.pdb
+E:\Programing\projects\CsharpProjects\iffyGame\obj\Debug\net8.0\iffyGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\projects\CsharpProjects\iffyGame\obj\Debug\net8.0\iffyGame.AssemblyInfoInputs.cache
+E:\Programing\projects\CsharpProjects\iffyGame\obj\Debug\net8.0\iffyGame.AssemblyInfo.cs
+E:\Programing\projects\CsharpProjects\iffyGame\obj\Debug\net8.0\iffyGame.csproj.CoreCompileInputs.cache
+E:\Programing\projects\CsharpProjects\iffyGame\obj\Debug\net8.0\iffyGame.dll
+E:\Programing\projects\CsharpProjects\iffyGame\obj\Debug\net8.0\refint\iffyGame.dll
+E:\Programing\projects\CsharpProjects\iffyGame\obj\Debug\net8.0\iffyGame.pdb
+E:\Programing\projects\CsharpProjects\iffyGame\obj\Debug\net8.0\iffyGame.genruntimeconfig.cache
+E:\Programing\projects\CsharpProjects\iffyGame\obj\Debug\net8.0\ref\iffyGame.dll
