@@ -1,0 +1,112 @@
+﻿@page "/counter"
+@rendermode InteractiveServer
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+<p role="status">Current old: @oldNumber</p>
+<p role="status">Current new: @newNumber</p>
+
+<button class="btn btn-primary" @onclick="()=>currentCount++">Increment</button>
+<button class="btn btn-primary" @onclick="DecrementCount">Decrement</button>
+<button class="btn btn-primary" @onclick="ResetCount">Reset</button>
+<button class="btn btn-primary" @onclick="Fibbonacci">Fibbonacci</button>
+<br />
+
+<!----<div class="m-1">
+<input type="text" @oninput="HandleInput">Input your text</input>
+<p>@text</p>
+
+</div>-->
+<div class="m-2">
+    <input type="text" @onkeydown="OnKeyDown">Input your text</input>
+    <p>@text</p>
+
+</div>
+<h2>Temperature Conversion</h2>
+<p>Celcuis</p>
+<input type="number" @bind="celsius" @oninput="UpdateFromCelsius" />
+<br />
+<p>Kelvin</p>
+<input type="number" @bind="kelvin" @oninput="UpdateFromKelvin" />
+<br />
+<p>Farenheit</p>
+<input type="number" @bind="fahrenheit" @oninput="UpdateFromFahrenheit" />
+
+@code {
+    private decimal celsius = 0;
+    private decimal kelvin = 273;
+    private decimal fahrenheit = 32;
+
+    private void UpdateFromCelsius(ChangeEventArgs e)
+    {
+        if (decimal.TryParse(e.Value?.ToString(), out decimal newCelsius))
+        {
+            celsius = newCelsius;
+            kelvin = celsius + 273;
+            fahrenheit = (celsius * 9 / 5) + 32;
+        }
+    }
+    private void UpdateFromKelvin(ChangeEventArgs e)
+    {
+        if (decimal.TryParse(e.Value?.ToString(), out decimal newKelvin))
+        {
+            kelvin = newKelvin;
+            celsius = kelvin - 273;
+            fahrenheit = (celsius * 9 / 5) + 32;
+        }
+    }
+    private void UpdateFromFahrenheit(ChangeEventArgs e)
+    {
+        if (decimal.TryParse(e.Value?.ToString(), out decimal newFahrenheit))
+        {
+            fahrenheit = newFahrenheit;
+            celsius = (fahrenheit - 32) * 5 / 9;
+            kelvin = celsius + 273;
+        }
+    }
+    }
+
+@code {
+    private decimal currentCount = 0;
+    private decimal startingNumber = 0;
+    private decimal newNumber = 0;
+    private decimal oldNumber = 0;
+    string text = "";
+    string text1 = "";
+
+    /*private void IncrementCount()
+        {
+        currentCount++;
+    }*/
+    private void DecrementCount(MouseEventArgs e)
+    {
+        currentCount--;
+    }
+    private void ResetCount(MouseEventArgs e)
+    {
+        currentCount = startingNumber;
+        newNumber = startingNumber;
+        oldNumber = startingNumber;
+        string text = "";
+        string text1 = "";
+    }
+    private void Fibbonacci(MouseEventArgs e)
+    {
+        if (currentCount == startingNumber){ currentCount++; newNumber = 1; }
+        oldNumber = currentCount;
+        newNumber = newNumber + oldNumber;
+        currentCount = newNumber + oldNumber;
+    }
+    private void HandleInput(ChangeEventArgs e)
+    {
+        text = (string)e.Value;
+    }
+    private void OnKeyDown(KeyboardEventArgs e)
+    {
+        text = (string)e.Key;
+    }
+
+}

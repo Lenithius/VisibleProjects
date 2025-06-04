@@ -1,0 +1,212 @@
+﻿@page "/MyPage"
+<style id="css1">
+    table {
+        margin-left: 43%;
+        background-color: #f25d5d;
+        color: #333;
+    }
+
+    img {
+        padding-left: 33%;
+    }
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 1.6;
+        margin: 30px;
+        margin-left: 50px;
+        padding: 0;
+        background-color: #6b6be6;
+        color: #010404;
+    }
+
+    /* Header Styling */
+    /*header {
+                    background-color: #3863f3;
+                    color: whitesmoke;
+                    text-align: center;
+                    padding-top: 0%;
+                    padding: 40px 0;
+                    margin-left: 30px;
+                    margin-right: 30px;
+                }*/
+
+    /* Hobbies List Styling */
+    #hobbies-list {
+        width: 60%;
+        margin: 20px auto;
+        padding: 0px;
+        list-style-type: square;
+    }
+
+        #hobbies-list li {
+            background: #74d6ec;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0.2px 4px rgba(0, 0, 0, 1);
+        }
+
+    /* Button Styling */
+    button {
+        display: block;
+        width: 150px;
+        margin: 20px auto;
+        padding: 10px;
+        background-color: #4076f3;
+        color: rgb(25, 24, 24);
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 1em;
+    }
+
+        button:hover {
+            background-color: #5171dc;
+        }
+
+    /* Footer Styling */
+    footer {
+        text-align: right;
+        padding: 5px;
+        background-color: #6692f7;
+        margin-top: 20px;
+    }
+
+    .dark-mode {
+        background-color: #333;
+        color: whitesmoke;
+    }
+
+        .dark-mode #hobbies-list li {
+            background-color: #333;
+            color: whitesmoke;
+        }
+
+        .dark-mode table {
+            background-color: #333;
+            color: whitesmoke;
+        }
+
+        .dark-mode footer {
+            background-color: #333;
+            color: whitesmoke;
+        }
+
+        .dark-mode button {
+            background-color: #333;
+            color: whitesmoke;
+        }
+</style>
+
+<!DOCTYPE html>
+<link rel="stylesheet" href="~/styles.css" />
+<html lang="en">
+
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale1.0">
+    <title>Add Hobby Example</title>
+   
+   
+  
+</head>
+
+<h3>Hobbies Page</h3>
+<body>
+    <script src="~/bootstrap/JavaScript.js"></script>
+
+   
+    <main>
+
+        <p>Hello, this is my hobbies page!</p>
+        <!--Togle dark mode on and off -->
+
+
+        <p>
+            <!-- Hobbies List -->
+            <ul id="hobbies-list">
+                <li>Photography</li>
+                <li>Reading</li>
+                <li>Gaming</li>
+                <li>Travelling</li>
+                <li>Sleeping</li>
+                <li>Bird Watching</li>
+            </ul>
+            <button class="btn btn-primary" @onclick="NewHobby">New Hobby</button>
+
+        </p>
+        <img src="https://img.freepik.com/premium-photo/caucasian-bearded-man-eyemask-sleeping-bed_73661-945.jpg" alt="Sample Image" title="Placeholder Image">
+        <table border="1">
+            <tr>
+                <th>Activity</th>
+                <th>Time</th>
+                <th>Location</th>
+            </tr>
+            <tr>
+                <td>Work</td>
+                <td>09:00 AM</td>
+                <td>Office</td>
+            </tr>
+            <tr>
+                <td>Gym</td>
+                <td>18:00 PM</td>
+                <td>Fitness Centre</td>
+            </tr>
+        </table>
+    </main>
+</body>
+
+</html>
+<footer>
+    <button class="btn btn-primary" @onclick="ToggleDM">Toggle Dark Mode</button>
+    <p>Created by J.Stace, 2024</p>
+</footer>
+<!--
+<script>
+function toggleDarkMode()
+{
+const body = document.querySelector("body");
+body.classList.toggle("dark-mode");
+}
+// show alert on image click
+document.addEventListener("DOMContentLoaded", () => {
+const image = document.querySelector("img");
+image.addEventListener("click", () => {
+alert("SHHHH!! Stop clicking I'm trying to sleep!!!");
+});
+});
+//add text to list
+function addHobby()
+{
+const hobbiesList = document.getElementById("hobbies-list")
+//Prompt user for new hobby
+const newHobby = prompt("Enter a new hobby;");
+//check if the input is valid not whitespace or empty
+if (newHobby && newHobby.trim() !== "")
+{
+const li = document.createElement("li")
+li.textContent = newHobby;
+//Optional Styling
+
+//Append the newlist item to the hobbies list
+hobbiesList.appendChild(li);
+}
+else
+{
+alert("Please enter a valid hobby.")
+}
+};</script>
+-->
+@code {
+
+ //   private void NewHobby(MouseEventArgs e)
+ //   {
+ //       throw new NotImplementedException();
+ //   }
+ //   private void ToggleDM(MouseEventArgs e)
+ //   {
+ //      Style= ".dark-mode";
+ //   }
+}

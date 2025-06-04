@@ -1,0 +1,59 @@
+﻿@page
+@model FirstBlazorApp.Components.Pages.MyPageModel
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale1.0">
+        <title>Add Hobby Example</title>
+        <link rel="stylesheet" href="styles/styles.css">
+    </head>
+    <body>
+        <script src="scripts/script.js"></script>
+        <header>
+            <h1>My Hobbies</h1>
+        </header>
+        <main>
+
+            <p>Hello, this is my hobbies page!</p>
+           <!--Togle dark mode on and off -->
+
+
+            <p>
+                <!-- Hobbies List -->
+                <ul id="hobbies-list">
+                    <li>Photography</li>
+                    <li>Reading</li>
+                    <li>Gaming</li>
+                    <li>Travelling</li>
+                    <li>Sleeping</li>
+                    <li>Bird Watching</li>
+                </ul>
+                <button onclick="addHobby()">Add Hobby</button>
+
+            </p>
+            <img src="https://img.freepik.com/premium-photo/caucasian-bearded-man-eyemask-sleeping-bed_73661-945.jpg" alt="Sample Image" title="Placeholder Image">
+            <table border="1">
+                <tr>
+                    <th>Activity</th>
+                    <th>Time</th>
+                    <th>Location</th>
+                </tr>
+                <tr>
+                    <td>Work</td>
+                    <td>09:00 AM</td>
+                    <td>Office</td>
+                </tr>     
+                <tr>
+                    <td>Gym</td>
+                    <td>18:00 PM</td>
+                    <td>Fitness Centre</td>
+                </tr>         
+            </table>
+        </main>
+    </body>
+    <footer>
+        <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
+        <p>Created by J.Stace, 2024</p>
+    </footer>
+</html>

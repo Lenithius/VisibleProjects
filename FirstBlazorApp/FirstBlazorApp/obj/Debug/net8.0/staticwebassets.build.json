@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "KbDlf8IaKSn3YHTZuiWJCiomws66GgzVIaCQ3E5QArM=",
+  "Source": "FirstBlazorApp",
+  "BasePath": "_content/FirstBlazorApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FirstBlazorApp\\wwwroot",
+      "Source": "FirstBlazorApp",
+      "ContentRoot": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\",
+      "BasePath": "_content/FirstBlazorApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FirstBlazorApp.styles.css",
+      "SourceId": "FirstBlazorApp",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/FirstBlazorApp",
+      "RelativePath": "FirstBlazorApp#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "hewobhc3dl",
+      "Integrity": "CQnR9MkTyoQJLyBhiah9XGMqb8r4nUeRizDkRCDlLew=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FirstBlazorApp.styles.css"
+    },
+    {
+      "Identity": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FirstBlazorApp.bundle.scp.css",
+      "SourceId": "FirstBlazorApp",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/FirstBlazorApp",
+      "RelativePath": "FirstBlazorApp#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "hewobhc3dl",
+      "Integrity": "CQnR9MkTyoQJLyBhiah9XGMqb8r4nUeRizDkRCDlLew=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FirstBlazorApp.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\app.css",
+      "SourceId": "FirstBlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\",
+      "BasePath": "_content/FirstBlazorApp",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "FirstBlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\",
+      "BasePath": "_content/FirstBlazorApp",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9sq3ioyzvo",
+      "Integrity": "p8Neb1VMnFzkJ3LOlX+WHLeOri+DnXypZSyQGk7X88Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "FirstBlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\",
+      "BasePath": "_content/FirstBlazorApp",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\bootstrap\\JavaScript.js",
+      "SourceId": "FirstBlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\",
+      "BasePath": "_content/FirstBlazorApp",
+      "RelativePath": "bootstrap/JavaScript#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ar5ennpadf",
+      "Integrity": "WqjjgUajCvbBdqFCjFPXr6v6wSjHJpRAIzBIM3ifBmU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\JavaScript.js"
+    },
+    {
+      "Identity": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\bootstrap\\styles.css",
+      "SourceId": "FirstBlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\",
+      "BasePath": "_content/FirstBlazorApp",
+      "RelativePath": "bootstrap/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8qknvw6iu2",
+      "Integrity": "sKfwembzST4OC69gC8RhZgEK5AowPd5qpzQEFslJdac=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\styles.css"
+    },
+    {
+      "Identity": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\favicon.png",
+      "SourceId": "FirstBlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\",
+      "BasePath": "_content/FirstBlazorApp",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 12:41:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 12:41:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.9sq3ioyzvo.css",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p8Neb1VMnFzkJ3LOlX+WHLeOri+DnXypZSyQGk7X88Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 15:52:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9sq3ioyzvo"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p8Neb1VMnFzkJ3LOlX+WHLeOri+DnXypZSyQGk7X88Y="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p8Neb1VMnFzkJ3LOlX+WHLeOri+DnXypZSyQGk7X88Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 15:52:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p8Neb1VMnFzkJ3LOlX+WHLeOri+DnXypZSyQGk7X88Y="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 12:41:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 12:41:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/JavaScript.ar5ennpadf.js",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\bootstrap\\JavaScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WqjjgUajCvbBdqFCjFPXr6v6wSjHJpRAIzBIM3ifBmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 15:55:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ar5ennpadf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/JavaScript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WqjjgUajCvbBdqFCjFPXr6v6wSjHJpRAIzBIM3ifBmU="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/JavaScript.js",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\bootstrap\\JavaScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WqjjgUajCvbBdqFCjFPXr6v6wSjHJpRAIzBIM3ifBmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 15:55:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WqjjgUajCvbBdqFCjFPXr6v6wSjHJpRAIzBIM3ifBmU="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/styles.8qknvw6iu2.css",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\bootstrap\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1814"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sKfwembzST4OC69gC8RhZgEK5AowPd5qpzQEFslJdac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 15:32:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8qknvw6iu2"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sKfwembzST4OC69gC8RhZgEK5AowPd5qpzQEFslJdac="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/styles.css",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\bootstrap\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1814"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sKfwembzST4OC69gC8RhZgEK5AowPd5qpzQEFslJdac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 15:32:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sKfwembzST4OC69gC8RhZgEK5AowPd5qpzQEFslJdac="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 12:41:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 12:41:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "FirstBlazorApp.bundle.scp.css",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FirstBlazorApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CQnR9MkTyoQJLyBhiah9XGMqb8r4nUeRizDkRCDlLew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 12:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CQnR9MkTyoQJLyBhiah9XGMqb8r4nUeRizDkRCDlLew="
+        }
+      ]
+    },
+    {
+      "Route": "FirstBlazorApp.hewobhc3dl.bundle.scp.css",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FirstBlazorApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CQnR9MkTyoQJLyBhiah9XGMqb8r4nUeRizDkRCDlLew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 12:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hewobhc3dl"
+        },
+        {
+          "Name": "label",
+          "Value": "FirstBlazorApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CQnR9MkTyoQJLyBhiah9XGMqb8r4nUeRizDkRCDlLew="
+        }
+      ]
+    },
+    {
+      "Route": "FirstBlazorApp.hewobhc3dl.styles.css",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FirstBlazorApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CQnR9MkTyoQJLyBhiah9XGMqb8r4nUeRizDkRCDlLew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 12:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hewobhc3dl"
+        },
+        {
+          "Name": "label",
+          "Value": "FirstBlazorApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CQnR9MkTyoQJLyBhiah9XGMqb8r4nUeRizDkRCDlLew="
+        }
+      ]
+    },
+    {
+      "Route": "FirstBlazorApp.styles.css",
+      "AssetFile": "E:\\Programming\\projects\\CsharpProjects\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FirstBlazorApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CQnR9MkTyoQJLyBhiah9XGMqb8r4nUeRizDkRCDlLew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 12:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CQnR9MkTyoQJLyBhiah9XGMqb8r4nUeRizDkRCDlLew="
+        }
+      ]
+    }
+  ]
+}
